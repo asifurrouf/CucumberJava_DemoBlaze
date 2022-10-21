@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
         monochrome = true,
         tags = "@Demo",
         plugin = {"pretty",
+                "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
                 "html:allure-results/cucumber.html",
                 "json:allure-results/cucumber.json"}
 )

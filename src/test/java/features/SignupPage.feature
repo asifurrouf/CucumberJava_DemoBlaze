@@ -15,4 +15,4 @@ Feature: Test Signup functionality
 
     Examples:
       | Username        | Password |
-      | Test_User_12345232 | abcd123  |
+      | Test_User_1234523223 | abcd123  |
