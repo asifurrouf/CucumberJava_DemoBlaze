@@ -41,3 +41,4 @@
   - execute command ```mvn test```
 <br/>
 Full execution video link : https://drive.google.com/file/d/1oYX2W4GRwVq8ULIpl3Ofg-YxgmPeL-1U/view
+Full execution video link with allure: https://drive.google.com/file/d/1EUBidiWY4mKcf2doNi7zy3iEDZoUbTdZ/view
